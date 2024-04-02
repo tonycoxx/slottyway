@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /?
-Disallow: *action=
-Disallow: /news/?p
-Disallow: /articles/?p
-Disallow: /auth
-Disallow: /feed/
